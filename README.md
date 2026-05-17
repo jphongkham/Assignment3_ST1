@@ -4,7 +4,7 @@ Project Overview
 
 This project is a Python based Macroinvertebrate Image Analysis System developed for Software Technology 1 (4483)
 
-By Josh, Ali and Alex
+By U3306631, U3308882 and U3309505
 
 The system performs Stage 1 Exploratory Data Analysis (EDA) on a macroinvertebrate image dataset and deploys the system through a Tkinter graphical user interface (GUI).
 
