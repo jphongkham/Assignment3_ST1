@@ -6,6 +6,8 @@ By Josh, Ali and Alex
 
 The system performs Stage 1 Exploratory Data Analysis (EDA) on a macroinvertebrate image dataset and deploys the system through a Tkinter graphical user interface (GUI).
 
+The image dataset used for this system is the Kaggle Stream Macroinvertebrates dataset which can be found at: https://www.kaggle.com/datasets/kennethtm/stream-macroinvertebrates
+
 ---
 
 Features
