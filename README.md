@@ -48,7 +48,10 @@ Pillow (PIL)
 ---
 
 File Structure
+
 stage1_eda.py
 macro_gui_menu.py
+
 stream_macroinvertebrates/
+
 eda_outputs/
