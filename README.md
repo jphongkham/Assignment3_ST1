@@ -1,6 +1,6 @@
 Macroinvertebrate Image Analysis System
 Project Overview
-This project is a Python-based Macroinvertebrate Image Analysis System developed for Software Technology 1.
+This project is a Python based Macroinvertebrate Image Analysis System developed for Software Technology 1 (4483)
 
 By Josh, Ali and Alex
 
